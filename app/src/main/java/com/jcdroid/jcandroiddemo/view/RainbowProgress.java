@@ -13,7 +13,7 @@ import com.jcdroid.jcandroiddemo.R;
 
 /**
  * http://www.jianshu.com/p/84cee705b0d3
- * Created by caojing on 2015/12/3.
+ * Created by Jcdroid on 2015/12/3.
  */
 public class RainbowProgress extends View {
 

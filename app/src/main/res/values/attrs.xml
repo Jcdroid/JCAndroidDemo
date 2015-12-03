@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RainbowProgress">
+        <attr name="lineColor" format="color"/>
+        <attr name="lineWidth" format="dimension"/>
+        <attr name="lineHeight" format="dimension"/>
+    </declare-styleable>
+
+</resources>
